@@ -1,9 +1,14 @@
 # MSc.-Thesis
 University of Geneva
+
 Geneva School of Economics and Management
+
 Master Thesis
+
 MSc. in Economics
+
 Concentration: Econometrics
+
 Author: Juan David Vega Baquero
 
 
